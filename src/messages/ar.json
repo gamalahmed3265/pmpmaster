@@ -1,0 +1,477 @@
+{
+  "welcome": "مرحباً بك في التطبيق",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "changeLanguage": "تغيير اللغة",
+  "login": "تسجيل الدخول",
+  "register": "تسجيل حساب جديد",
+  "search": "بحث",
+  "ads": "إعلانات",
+  "name": "الاسم",
+  "email": "البريد الإلكتروني",
+  "washTypes": "أنواع الغسيل",
+  "added": "أضيف",
+  "password": "كلمة المرور",
+  "keepShopping": "متابعة التسوق",
+  "pleaseAddItemsToCart": "الرجاء إضافة عناصر إلى السلة لتتمكن من إتمام عملية الدفع",
+  "alreadyAdded": "تمت الإضافة بالفعل",
+  "areYourSureThatYouWantToDeleteThisProduct": "هل أنت متأكد أنك تريد حذف هذا المنتج؟",
+  "thisActionIsNotReversible": "هذا الإجراء غير قابل للاسترجاع",
+  "company": "الشركة",
+  "pleaseLogin": "الرجاء تسجيل الدخول للمتابعة",
+  "carOrders": "طلبات السيارات",
+  "users": "المستخدمون",
+  "myAccount": "حسابي",
+  "username": "اسم المستخدم",
+  "submit": "إرسال",
+  "close": "إغلاق",
+  "forgotPassword": "هل نسيت كلمة المرور؟",
+  "verifyEmail": "التحقق من البريد الإلكتروني",
+  "confirmPassword": "تأكيد كلمة المرور",
+  "newPassword": "كلمة مرور جديدة",
+  "rentingCar": "تأجير سيارة",
+  "buyingCar": "شراء سيارة",
+  "stock": "المخزون",
+  "description": "الوصف",
+  "updatePassword": "تحديث كلمة المرور",
+  "phoneNumber": "رقم الهاتف",
+  "emptyCart": "سلة فارغة",
+  "carPrice": "سعر السيارة",
+  "addedToCart": "تمت الإضافة إلى السلة بنجاح",
+  "removedFromCart": "تمت إزالة المنتج من السلة بنجاح",
+  "logout": "تسجيل الخروج",
+  "address": "العنوان",
+  "profile": "الملف الشخصي",
+  "logout ": "تسجيل الخروج",
+  "addToCart": "أضف إلى السلة",
+  "removeFromCart": "إزالة من السلة",
+  "add": "إضافة",
+  "noServiceAvailable": "لا توجد خدمة متاحة",
+  "noWashTypesAvailable": "لا توجد أنواع غسيل متاحة",
+  "rentalDays": "أيام الإيجار",
+  "dayPrice": "سعر اليوم",
+  "days": "أيام",
+  "total": "المجموع",
+  "dateFrom": "تاريخ البدء",
+  "dateTo": "تاريخ الانتهاء",
+  "month": "شهر",
+  "year": "سنة",
+  "day": "يوم",
+  "dummyProductDescription": "مغسلة السيارات هي منشأة متخصصة تقدم خدمات تنظيف وصيانة لمختلف أنواع المركبات. الهدف الأساسي هو إزالة الأوساخ والغبار والأتربة من الجزء الخارجي للمركبة مع ضمان نظافة وصيانة الجزء الداخلي أيضًا. تعتبر مغاسل السيارات حلاً مناسبًا لأصحاب المركبات الذين يبحثون عن خدمات تنظيف شاملة وعالية الجودة.",
+  "quantity": "الكمية",
+  "itemPrice": "سعر المنتج",
+  "cardNumber": "رقم البطاقة",
+  "expiryDate": "تاريخ الانتهاء",
+  "cvv": "CVV",
+  "payNow": "ادفع الآن",
+  "cancel": "إلغاء",
+  "Iacknowledge": "أقر بأنني قرأت ووافقت على",
+  "cart": "السلة",
+  "home": "الرئيسية",
+  "services": "الخدمات",
+  "products": "المنتجات",
+  "carWash": "غسيل سيارات",
+  "rentCar": "استئجار سيارة",
+  "buyACar": "شراء سيارة",
+  "buyCar": "شراء سيارة",
+  "price": "السعر",
+  "mileage": "المسافة المقطوعة",
+  "navbar": {
+    "home": "الرئيسية",
+    "services": "الخدمات",
+    "market": "السوق",
+    "myOrders": "طلباتي",
+    "myAccount": "حسابي"
+  },
+  "registerPage": {
+    "title": "ابدأ رحلتك مع مغسلة السيارات!",
+    "subtitle": "سجل للحصول على خدمات غسيل السيارات وتأجير المركبات ومنتجات العناية بالسيارات.",
+    "alreadyHaveAnAccount": "هل لديك حساب بالفعل؟"
+  },
+  "loginPage": {
+    "title": "مرحبًا بعودتك إلى مغسلة السيارات!",
+    "subtitle": "سجل الدخول للوصول بسهولة إلى خدماتنا والاستمتاع بتجربة استثنائية لسيارتك.",
+    "dontHaveAnAccount": "ليس لديك حساب؟"
+  },
+  "verifyEmailPage": {
+    "title": "تحقق من بريدك الإلكتروني",
+    "subtitle": "لقد أرسلنا رمز التحقق إلى بريدك الإلكتروني. يرجى إدخال الرمز أدناه لتأكيد هويتك والمتابعة.",
+    "didntGetTheCode": "ألم تحصل على الرمز؟",
+    "resendTheCode": "إعادة إرسال الرمز"
+  },
+  "resetPasswordPage": {
+    "title": "إعادة تعيين كلمة المرور الخاصة بك",
+    "subtitle": "قم بتحديث كلمة مرور حسابك بسهولة لضمان أمانك والوصول إليه. أدخل كلمة مرور جديدة وقم بتأكيدها للمتابعة.",
+    "sendResetCode": {
+      "title": "يبدو أنك نسيت كلمة المرور الخاصة بك",
+      "subtitle": "الرجاء إدخال عنوان بريدك الإلكتروني حتى نتمكن من مساعدتك في إعادة تعيينها."
+    }
+  },
+  "noDataAvailable": "لا توجد بيانات متاحة",
+  "loginAlertMessage": "إذا كنت ترغب في إضافة عناصر إلى سلة التسوق الخاصة بك، يرجى تسجيل الدخول أولاً.",
+  "clickHereToLogin": "انقر هنا لتسجيل الدخول",
+  "areYouSureThatYouWantToDeleteThisUser": "هل أنت متأكد أنك تريد حذف هذا المستخدم؟",
+  "thisActionIsNotReversibleOnceYouDeleteTheUserYouDeleteAllOfHisData": "هذا الإجراء غير قابل للاسترجاع. بمجرد حذف المستخدم، سيتم حذف جميع بياناته.",
+  "failedToDeleteUser": "فشل حذف المستخدم",
+  "userDeletedSuccessfully": "تم حذف المستخدم بنجاح",
+  "reasonForDeletion": "سبب الحذف",
+  "sendResetLink": "إرسال رابط إعادة التعيين",
+  "passwordResetCodeSentSuccessfully": "إذا كان هناك بريد إلكتروني، فسيتم إرسال رمز إعادة تعيين كلمة المرور.",
+  "passwordHasBeenUpdatedSuccessfully": "تم تحديث كلمة المرور بنجاح",
+  "somethingWentWrong": "حدث خطأ ما",
+  "invalidDates": "تواريخ غير صالحة",
+  "checkout": "الدفع",
+  "footerDescription": "خدمات سيارات احترافية مع الالتزام بالجودة ورضا العملاء.",
+  "rentingCars": "تأجير السيارات",
+  "buyCars": "شراء السيارات",
+  "quickLinks": "روابط سريعة",
+  "ourServices": "خدماتنا",
+  "businessHours": "ساعات العمل",
+  "privacyPolicy": "سياسة الخصوصية",
+  "termsOfService": "شروط الخدمة",
+  "allRightsReserved": "جميع الحقوق محفوظة",
+  "noItemsFound": "لا توجد عناصر",
+  "invalidItems": ".ربما كلمات البحث الخاصة بك ليست محددة",
+
+  "Footer": {
+    "logoAltText": "شعار معتمد",
+    "programsTitle": "البرامج",
+    "programMBA": "برامج الماجستير في إدارة الأعمال",
+    "programPhD": "برامج الدكتوراه",
+    "programMSc": "برامج الماجستير في العلوم",
+    "programDBA": "برامج الدكتوراه في إدارة الأعمال",
+    "programBachelor": "برامج البكالوريوس",
+    "programPMPCert": "شهادة PMP",
+    "programPMOCPCert": "شهادة PMO-CP",
+    "programOtherCourses": "دورات أخرى",
+    "quickLinksTitle": "روابط هامة",
+    "quickLinkAllCourses": "كل الدورات",
+    "quickLinkInstructors": "المدربين",
+    "quickLinkPMPExams": "اختبارات PMP",
+    "quickLinkPMOExams": "اختبارات PMO",
+    "quickLinkPMPBooks": "متجر كتب PMP",
+    "quickLinkAboutUs": "من نحن",
+    "quickLinkCheckSerial": "تحقق من المسلسل",
+    "quickLinkAskAI": "اسال الAI",
+    "quickLinkContactUs": "اتصل بنا",
+    "quickLinkSubscriptions": "الاشتراكات والعضوية",
+    "quickLinkArticles": "المقالات",
+    "contactUsTitle": "تواصل معنا",
+    "contactAddress": "بلجرشي، العليا، الرياض 12221، المملكة العربية السعودية",
+    "copyrightText": "حقوق الطبع والنشر © {year} {company}. جميع الحقوق محفوظة. - تطوير {developer}.",
+    "changeLanguage": "تغيير اللغة"
+  },
+  "hero": {
+    "accreditation": "درجات وشهادات معتمدة من المملكة المتحدة",
+    "title": "حَوِّل مستقبلك بالتعليم المعترف به عالميًا",
+    "description": "عزز مسارك المهني ببرامج الماجستير التنفيذي والدكتوراه التنفيذية والشهادات الاحترافية المعتمدة دوليًا والمصممة للقادة الطموحين. تعلّم من خبراء الصناعة واكتسب مؤهلات معترف بها من جامعات المملكة المتحدة المرموقة.",
+    "flexibleLearning": "التعلم المرِن",
+    "industryRecognized": "معترف بها في السوق",
+    "expertFaculty": "هيئة تدريس متخصصة",
+    "globalNetwork": "شبكة عالمية",
+    "beginJourney": "ابدأ رحلتك الآن",
+    "bookConsultation": "احجز استشارة مجانية",
+    "graduates": "{count}+ خريج من",
+    "countries": "{countries}+ دولة",
+    "successRate": "94%",
+    "successText": "الارتقاء الوظيفي",
+    "accreditationBadge": "معتمد من المملكة المتحدة",
+    "SuccessRate": "معدل النجاح"
+  },
+  "header": {
+    "SearchDropdown": {
+      "searchTitle": "ابحث في برامجنا",
+      "placeholder": "ابحث عن الدورات، البرامج، أو المواضيع...",
+      "popularSearches": "عمليات البحث الشائعة:",
+      "closeSearch": "إغلاق البحث",
+      "openSearch": "فتح البحث"
+    },
+    "Common": {
+      "mba": "ماجستير إدارة الأعمال",
+      "pmp": "إدارة المشاريع الاحترافية",
+      "dba": "دكتوراه إدارة الأعمال",
+      "agile": "أجايل"
+    },
+    "Navigation": {
+      "home": "الرئيسية",
+      "courses": "الدورات",
+      "packages": "الباقات",
+      "exams": "الاختبارات",
+      "bookStore": "متجر الكتب",
+      "instructors": "المدربين",
+      "aboutUs": "من نحن",
+      "contactUs": "اتصل بنا"
+    },
+    "CourseCategories": {
+      "pmp": "دورات PMP",
+      "pmo": "دورات PMO",
+      "planning": "دورات التخطيط",
+      "freeCourses": "الدورات المجانية"
+    },
+    "ExamCategories": {
+      "pmp": "اختبارات PMP",
+      "pmo": "اختبارات PMO",
+      "pgmp": "اختبارات PgMP"
+    },
+    "Auth": {
+      "login": "الدخول",
+      "register": "تسجيل",
+      "startNow": "ابدأ الآن"
+    }
+  },
+  "featured": {
+    "title": "برامجنا المميزة",
+    "description": "برامج معتمدة دوليًا مصممة لإعدادك لأدوار قيادية في بيئة الأعمال العالمية",
+    "FeaturedCard": {
+      "views_count": "{views, number} مشاهدة",
+      "show_more": "اعرف المزيد",
+      "delivery_mode": "أونلاين/مدمج",
+      "academic_phd_management_business_alt": "دكتوراه أكاديمية في الإدارة والأعمال (PMB)",
+      "academic_phd_management_business_category": "دكتوراه",
+      "academic_phd_management_business_title": "دكتوراه أكاديمية في الإدارة والأعمال (PMB)",
+      "academic_phd_management_business_description": "تم تصميم برنامج الدكتوراه هذا للخريجين الذين يهدفون إلى إجراء البحوث الأكاديمية أو ممارسة مهن التدريس كأساتذة في الإدارة والأعمال.",
+      "academic_phd_management_business_duration": "3-5 سنوات",
+      "mba_alt": "ماجستير إدارة الأعمال (MBA)",
+      "mba_category": "ماجستير",
+      "mba_title": "ماجستير إدارة الأعمال (MBA)",
+      "mba_description": "يمكّنك برنامج ماجستير إدارة الأعمال هذا من اكتساب مجموعة واسعة من مهارات ومعارف إدارة الأعمال، مما يمكّنك من تطوير حياتك المهنية.",
+      "mba_duration": "أقل من سنة واحدة",
+      "anglia_ruskin_university_name": "جامعة أنجليا روسكين",
+      "anglia_ruskin_university_description": "إحدى الجامعات البريطانية المرموقة",
+      "bba_alt": "بكالوريوس إدارة الأعمال (BBA)",
+      "bba_category": "بكالوريوس",
+      "bba_title": "بكالوريوس إدارة الأعمال (BBA)",
+      "bba_description": "يوفر برنامج بكالوريوس إدارة الأعمال للطلاب أساسًا متينًا في مبادئ وممارسات الأعمال.",
+      "bba_duration": "3-4 سنوات",
+      "uclan_university_name": "جامعة سنترال لانكشاير (UCLan)",
+      "uclan_university_name_description": "جامعة دولية يعود تاريخها إلى عام 1828",
+      "msc_project_management_alt": "ماجستير العلوم في إدارة المشاريع (MSc)",
+      "msc_project_management_category": "ماجستير",
+      "msc_project_management_title": "ماجستير العلوم في إدارة المشاريع (MSc)",
+      "msc_project_management_description": "تم تصميم برنامج ماجستير العلوم في إدارة المشاريع لتزويد الطلاب بالمعرفة والمهارات المتقدمة اللازمة للتفوق في أدوار قيادة المشاريع.",
+      "msc_project_management_duration": "1-2 سنوات",
+      "uk_university_description": "المملكة المتحدة"
+    }
+  },
+  "aboutHomePage": {
+    "AboutContent": {
+      "heading": "عن معهدنا",
+      "description": "في \"سيرتيفايد\"، نربط بين المهنيين الطموحين والتعليم العالمي من خلال شراكاتنا مع جامعات معترف بها دولياً.",
+      "list": {
+        "accredited_degrees": "درجات وشهادات معتمدة دولياً",
+        "flexible_learning": "خيارات تعليمية مرنة مصممة خصيصاً للمهنيين العاملين",
+        "expert_faculty": "هيئة تدريس من الخبراء ذوي الخبرة الصناعية الواسعة",
+        "career_support": "دعم وظيفي شامل وفرص للتواصل المهني"
+      },
+      "learn_more_button": "اعرف المزيد عنا"
+    },
+    "AboutImageGallery": {
+      "image1_alt": "طلاب في بيئة الفصول الدراسية",
+      "image2_alt": "حفل تخرج"
+    },
+    "AboutStats": {
+      "university_partners_label": "شركاء جامعيون",
+      "students_enrolled_label": "طلاب مسجلون",
+      "success_rate_label": "معدل النجاح"
+    }
+  },
+  "accreditations": {
+    "heading": "اعتماداتنا وشراكاتنا",
+    "description": "نتعاون مع المؤسسات الرائدة عالمياً لضمان أن برامجنا تلبي المعايير الدولية وتوفر مؤهلات معترف بها عالمياً.",
+    "accreditation_item": {
+      "international_management_association": "الجمعية الدولية للإدارة",
+      "global_business_academy": "الأكاديمية العالمية للأعمال",
+      "european_higher_education_authority": "الهيئة الأوروبية للتعليم العالي",
+      "international_distance_education_council": "المجلس الدولي للتعليم عن بعد",
+      "international_council_open_education": "المجلس الدولي للتعليم المفتوح",
+      "accreditation_council_business_schools": "مجلس الاعتماد لكليات إدارة الأعمال"
+    },
+    "quality_assurance": {
+      "heading": "ضمان الجودة الدولي",
+      "description": "تخضع جميع برامجنا لفحوصات جودة صارمة ومعتمدة من قبل مؤسسات مرموقة، مما يضمن حصولك على تعليم يلبي المعايير العالمية.",
+      "list": {
+        "quality_assured_curriculum": "منهج دراسي مضمون الجودة",
+        "internationally_recognized_qualifications": "مؤهلات معترف بها دولياً",
+        "rigorous_academic_standards": "معايير أكاديمية صارمة",
+        "industry_aligned_learning_outcomes": "نتائج تعليمية متوافقة مع الصناعة"
+      },
+      "image_alt": "معايير ضمان الجودة"
+    }
+  },
+  "certified": {
+    "heading": "لماذا تختار سيرتيفايد؟",
+    "description": "نقدم تجربة تعليمية فريدة تجمع بين التميز الأكاديمي والأهمية العملية للصناعة، مقدمة بطريقة تناسب أسلوب حياتك المزدحم.",
+    "certifiedCard": {
+      "flexible_learning_title": "تعلم مرن ووحدات دراسية",
+      "flexible_learning_description": "صممت برامجنا لتناسب المهنيين العاملين، مع تقديم 100% عبر الإنترنت، فصول نهاية الأسبوع، وهياكل دورات وحداتية تسمح لك بالتعلم بالوتيرة التي تناسبك.",
+      "affordable_programs_title": "برامج ميسورة التكلفة مع خطط دفع",
+      "affordable_programs_description": "نؤمن بأن التعليم الجيد يجب أن يكون متاحاً للجميع. تساعد رسومنا الدراسية التنافسية وخطط السداد المرنة في إدارة استثمارك في التعليم دون ضغط مالي.",
+      "accredited_recognized_title": "معتمد ومعترف به دولياً",
+      "accredited_recognized_description": "جميع برامجنا معتمدة من قبل هيئات دولية مرموقة ومعترف بها من قبل أرباب العمل في جميع أنحاء العالم، مما يضمن أن مؤهلك ذو قيمة عالمية."
+    },
+    "start_journey_button": "ابدأ رحلتك التعليمية",
+    "ImageWithOverlay": {
+      "main_image_alt": "طلاب يستفيدون من برامجنا التعليمية المرنة",
+      "overlay_text": "من خريجينا يبلغون عن تقدم وظيفي خلال عام واحد"
+    },
+    "StatBox": {
+      "university_partners_label": "شركاء جامعيون",
+      "courses_available_label": "دورات متاحة",
+      "global_alumni_label": "خريجون عالميون"
+    }
+  },
+  "resources": {
+    "heading": "مصادر الطلاب",
+    "description": "الوصول إلى الأدوات، الأدلة، والمواد لدعم رحلتك التعليمية.",
+    "ResourceCategoryTabs": {
+      "brochures_tab": "كتيبات البرامج",
+      "guides_tab": "أدلة الطلاب",
+      "videos_tab": "مصادر الفيديو",
+      "forms_tab": "نماذج الطلبات"
+    },
+    "ResourceCard": {
+      "mba_brochure_title": "كتيب برنامج الماجستير في إدارة الأعمال (MBA)",
+      "dba_brochure_title": "كتيب برنامج الدكتوراه في إدارة الأعمال (DBA)",
+      "pmp_guide_title": "دليل شهادة PMP",
+      "admission_guide_title": "دليل القبول",
+      "orientation_video_title": "فيديو توجيه الطلاب",
+      "program_overview_video_title": "فيديو نظرة عامة على البرنامج",
+      "application_form_title": "نموذج الطلب العام",
+      "download_button": "تحميل المصدر"
+    },
+    "ContactSupportBanner": {
+      "contact_banner_heading": "هل تحتاج إلى مصدر معين؟",
+      "contact_banner_description": "إذا لم تتمكن من العثور على ما تبحث عنه، فإن فريقنا مستعد للمساعدة.",
+      "contact_banner_button": "اتصل بفريق الدعم"
+    }
+  },
+  "review": {
+    "heading": "ماذا يقول طلابنا",
+    "description": "استمع إلى خريجينا حول كيفية تحويل برامجنا لمسيرتهم المهنية وتزويدهم بمهارات ومعارف قيمة.",
+    "pagination_bullet_label": "انتقال إلى شهادة الشريحة {{index}}",
+    "prev_testimonial_aria_label": "الشهادة السابقة",
+    "next_testimonial_aria_label": "الشهادة التالية",
+    "TestimonialCard": {
+      "testimonial1_alt": "سارة جونسون، خريجة ماجستير إدارة أعمال",
+      "testimonial1_quote": "كان إكمال درجة الماجستير في إدارة الأعمال من خلال سيرتيفايد أحد أفضل القرارات المهنية التي اتخذتها. أتاح لي نموذج التعلم المرن مواصلة العمل أثناء الدراسة، وقدم أعضاء هيئة التدريس الدوليون وجهات نظر متنوعة وسعت فهمي للأعمال التجارية العالمية.",
+      "testimonial1_name": "سارة جونسون",
+      "testimonial1_title": "خريجة ماجستير إدارة أعمال، مديرة تسويق",
+
+      "testimonial2_alt": "ديفيد لي، مرشح دكتوراه إدارة أعمال",
+      "testimonial2_quote": "لقد كان برنامج الدكتوراه في إدارة الأعمال محفزًا فكريًا وذا صلة لا تصدق بدوري التنفيذي. أعضاء هيئة التدريس خبراء في مجالاتهم، ويوفرون توجيهًا يتجاوز الأكاديمية التقليدية. أوصي به بشدة للمهنيين ذوي الخبرة الذين يبحثون عن معرفة عميقة.",
+      "testimonial2_name": "ديفيد لي",
+      "testimonial2_title": "مرشح دكتوراه إدارة أعمال، مستشار أول",
+
+      "testimonial3_alt": "عائشة رحمن، معتمدة PMP",
+      "testimonial3_quote": "حصلت على شهادة PMP مع سيرتيفايد، وكانت تجربة سلسة. كانت المواد الدراسية شاملة، وكان المدربون رائعين، حيث أرشدونا خلال المفاهيم المعقدة بأمثلة عملية. لقد تحسنت آفاقي المهنية بشكل كبير.",
+      "testimonial3_name": "عائشة رحمن",
+      "testimonial3_title": "معتمدة PMP، مديرة مشروع",
+
+      "testimonial4_alt": "كارلوس غارسيا، أخصائي تسويق",
+      "testimonial4_quote": "الدورات المتخصصة المقدمة هنا رائدة حقًا في الصناعة. تمكنت من تطبيق ما تعلمته فورًا على مهامي اليومية، مما أدى إلى تحسينات ملحوظة في أداء فريقي. كان التنسيق عبر الإنترنت مثاليًا لجدولي الزمني المزدحم.",
+      "testimonial4_name": "كارلوس غارسيا",
+      "testimonial4_title": "أخصائي تسويق",
+
+      "testimonial5_alt": "إميلي تشن، مديرة موارد بشرية",
+      "testimonial5_quote": "الدعم من فريق سيرتيفايد استثنائي. من التسجيل إلى التخرج، كانوا دائمًا متاحين للإجابة على الأسئلة وتقديم الإرشاد. كما أن مجتمع الطلاب جعل رحلة التعلم أكثر جاذبية.",
+      "testimonial5_name": "إميلي تشن",
+      "testimonial5_title": "مديرة موارد بشرية"
+    }
+  },
+  "article": {
+    "heading": "أحدث الأخبار والرؤى",
+    "description": "ابقَ على اطلاع بأحدث الاتجاهات والأبحاث والتطورات في تعليم إدارة الأعمال والتدريب المهني.",
+    "view_all_articles_button": "عرض جميع المقالات",
+    "ArticleCard": {
+      "business_education_category": "تعليم إدارة الأعمال",
+      "certification_category": "الشهادات",
+      "professional_development_category": "التطوير المهني",
+
+      "mar_15_2025_date": "15 مارس 2025",
+      "mar_10_2025_date": "10 مارس 2025",
+      "mar_05_2025_date": "5 مارس 2025",
+
+      "dr_sarah_johnson_author": "د. سارة جونسون",
+      "prof_michael_chen_author": "أ.د. مايكل تشن",
+      "dr_emily_rodriguez_author": "د. إميلي رودريغيز",
+
+      "future_of_business_education_title": "مستقبل تعليم إدارة الأعمال في عالم رقمي",
+      "future_of_business_education_desc": "استكشف كيف يعيد التحول الرقمي تشكيل تعليم إدارة الأعمال وما يعنيه ذلك للقادة المستقبليين.",
+
+      "pmp_certification_benefits_title": "كيف يمكن لشهادة PMP أن تعزز آفاقك المهنية",
+      "pmp_certification_benefits_desc": "تعرف على الفوائد الملموسة للحصول على شهادة PMP وكيف يمكنها تحويل مسيرتك المهنية في إدارة المشاريع.",
+
+      "rise_of_micro_credentials_title": "صعود الشهادات المصغرة في التطوير المهني",
+      "rise_of_micro_credentials_desc": "اكتشف لماذا أصبحت الشهادات المصغرة تحظى بشعبية متزايدة بين المهنيين الذين يسعون إلى تعزيز مهاراتهم.",
+
+      "read_more": "اقرأ المزيد"
+    }
+  },
+  "next_step": {
+    "heading": "هل أنت مستعد لاتخاذ الخطوة التالية في مسيرتك المهنية؟",
+    "description": "تحدث مع مستشارينا الأكاديميين لاكتشاف كيف يمكن لبرامجنا مساعدتك في تحقيق أهدافك المهنية والتقدم في مسيرتك.",
+    "book_consultation_button": "احجز استشارة مجانية",
+    "download_prospectus_button": "تنزيل الكتيب التعريفي",
+    "support_features": {
+      "academic_advising_title": "الاستشارات الأكاديمية",
+      "academic_advising_description": "احصل على إرشاد شخصي بشأن اختيار البرنامج",
+      "financial_options_title": "الخيارات المالية",
+      "financial_options_description": "خطط دفع مرنة وفرص للمنح الدراسية",
+      "career_support_title": "الدعم الوظيفي",
+      "career_support_description": "بناء السيرة الذاتية، التحضير للمقابلات، ومساعدة في التوظيف"
+    }
+  },
+  "contactUs": {
+    "main_heading": "تواصل معنا",
+    "main_description": "نحن هنا لمساعدتك! تواصل معنا عبر النموذج أدناه أو باستخدام معلومات الاتصال المباشرة.",
+    "map_alt_text": "موقع المهندسون المحترفون على الخريطة",
+    "view_on_map_text": "عرض على الخريطة",
+    "view_on_map_aria_label": "عرض موقعنا على خرائط جوجل",
+    "ContactForm": {
+      "form_heading": "أرسل لنا رسالة",
+      "name_label": "اسمك",
+      "name_placeholder": "أدخل اسمك",
+      "email_label": "بريدك الإلكتروني",
+      "email_placeholder": "أدخل عنوان بريدك الإلكتروني",
+      "subject_label": "الموضوع",
+      "subject_placeholder": "أدخل موضوع رسالتك",
+      "message_label": "رسالتك",
+      "message_placeholder": "اكتب رسالتك هنا...",
+      "submit_button": "إرسال الرسالة",
+      "submission_success_message": "تم إرسال رسالتك بنجاح!"
+    },
+    "ContactInfo": {
+      "info_heading": "تفاصيل الاتصال",
+      "info_description": "ابحث عنا وتواصل معنا عبر قنوات الاتصال الرئيسية لدينا.",
+      "address_label": "عنوان مكتبنا",
+      "address_value": "بلجرشي، العليا، الرياض 12221، المملكة العربية السعودية",
+      "phone_label": "أرقام الهواتف",
+      "email_label": "عنوان البريد الإلكتروني",
+      "website_label": "الموقع الإلكتروني"
+    },
+    "social_media": {
+      "facebook_aria_label": "قم بزيارتنا على فيسبوك",
+      "linkedin_aria_label": "تواصل معنا على لينكد إن",
+      "youtube_aria_label": "شاهد فيديوهاتنا على يوتيوب",
+      "whatsapp_aria_label": "تحدث معنا على واتساب"
+    }
+  },
+  "instructors": {
+    "section_heading": "تعرف على مدرّبينا الخبراء",
+    "section_description": "تعلم من رواد الصناعة والمهنيين المعتمدين الذين يشاركون شغفهم بالمعرفة ويرشدونك نحو النجاح."
+  },
+  "bookstore": {
+    "main_heading": "متجر الكتب لدينا",
+    "main_description": "اكتشف مجموعتنا المنسقة من الكتب الاحترافية في إدارة المشاريع والتطوير التنظيمي والمزيد.",
+    "free_label": "مجانى",
+    "category_label": "التصنيف",
+    "no_books_found": "لا توجد كتب مطابقة للتصنيف المحدد.",
+    "Filter": {
+      "filter_heading": "تصفية وتنقية",
+      "categories_heading": "تصنيفات الكتب"
+    }
+  },
+  "currency": {
+    "sar": "ريال سعودى"
+  }
+}

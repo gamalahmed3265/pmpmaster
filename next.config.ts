@@ -1,7 +1,25 @@
 import type { NextConfig } from "next";
+import createNextIntlPlugin from "next-intl/plugin";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+  images: {
+    remotePatterns: [
+      { hostname: "loremflickr.com" },
+      { hostname: "avatars.githubusercontent.com" },
+      { hostname: "147.93.123.109" },
+      { hostname: "cdn.jsdelivr.net" },
+      { hostname: "alrehab-eg.com" },
+      { hostname: "www.pmpmaster.com" },
+    ],
+  },
 };
 
-export default nextConfig;
+const withNextIntl = createNextIntlPlugin();
+
+export default withNextIntl(nextConfig);

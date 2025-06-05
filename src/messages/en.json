@@ -1,0 +1,482 @@
+{
+  "welcome": "Welcome to the app",
+  "english": "English",
+  "arabic": "Arabic",
+  "changeLanguage": "Change Language",
+  "login": "Login",
+  "register": "Register",
+  "search": "Search",
+  "ads": "Ads",
+  "name": "Name",
+  "email": "Email",
+  "washTypes": "Wash Types",
+  "added": "Added",
+  "password": "Password",
+  "keepShopping": "Keep shopping",
+  "pleaseAddItemsToCart": "Please Add items to cart to be able to checkout",
+  "alreadyAdded": "Already added",
+  "areYourSureThatYouWantToDeleteThisProduct": "Are you sure that you want to delete this product?",
+  "thisActionIsNotReversible": "This action is not reversible",
+  "company": "Company",
+  "pleaseLogin": "Please login to continue",
+  "carOrders": "Car Orders",
+  "users": "Users",
+  "myAccount": "My Account",
+  "username": "Username",
+  "submit": "Submit",
+  "close": "Close",
+  "forgotPassword": "Forgot Password?",
+  "verifyEmail": "Verify Email",
+  "confirmPassword": "Confirm Password",
+  "newPassword": "New Password",
+  "rentingCar": "Renting Car",
+  "buyingCar": "Buying Car",
+  "stock": "Stock",
+  "description": "Description",
+  "updatePassword": "Update Password",
+  "phoneNumber": "Phone Number",
+  "emptyCart": "Empty Cart",
+  "carPrice": "Car Price",
+  "addedToCart": "Added to cart successfully",
+  "removedFromCart": "Removed from cart successfully",
+  "logout": "Logout",
+  "address": "Address",
+  "profile": "Profile",
+  "logout ": "Logout",
+  "addToCart": "Add to Cart",
+  "removeFromCart": "Remove From Cart",
+  "add": "Add",
+  "noServiceAvailable": "No service available",
+  "noWashTypesAvailable": "No wash types available",
+  "rentalDays": "Rental Days",
+  "dayPrice": "Day Price",
+  "days": "Days",
+  "total": "Total",
+  "dateFrom": "Date From",
+  "dateTo": "Date To",
+  "month": "Month",
+  "year": "Year",
+  "day": "Day",
+  "dummyProductDescription": "A car wash is a specialized facility that offers cleaning and maintenance services for various types of vehicles. The primary goal is to remove dirt, dust, and grime from the vehicle's exterior while also ensuring the interior is clean and well-maintained. Car washes are a convenient solution for vehicle owners seeking comprehensive and high-quality cleaning services.",
+  "quantity": "Quantity",
+  "itemPrice": "Item Price",
+  "cardNumber": "Card Number",
+  "expiryDate": "Expiry Date",
+  "cvv": "CVV",
+  "payNow": "Pay Now",
+  "cancel": "Cancel",
+  "Iacknowledge": "I acknowledge that I have read and agree to the",
+  "cart": "Cart",
+
+  "home": "Home",
+  "services": "Services",
+  "products": "Products",
+
+  "carWash": "Car Wash",
+  "rentCar": "Rent a Car",
+  "buyACar": "Buy a Car",
+  "buyCar": "Buy Car",
+
+  "price": "Price",
+  "mileage": "Mileage",
+
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "market": "Market",
+    "myOrders": "My Orders",
+    "myAccount": "My Account"
+  },
+  "registerPage": {
+    "title": "Start Your Journey with Wash Car!",
+    "subtitle": "Register for car wash services, cleaning vehicle rentals, and car care products.",
+    "alreadyHaveAnAccount": "Already have an account?"
+  },
+  "loginPage": {
+    "title": "Welcome Back to Wash Car!",
+    "subtitle": "Login to easily access our services and enjoy an exceptional experience for your car.",
+    "dontHaveAnAccount": "Don't have an account?"
+  },
+  "verifyEmailPage": {
+    "title": "Verify Your Email",
+    "subtitle": "We’ve sent a verification code to your email. Please enter the code below to confirm your identity and proceed.",
+    "didntGetTheCode": "Didn’t get the code?",
+    "resendTheCode": "Resend the code"
+  },
+  "resetPasswordPage": {
+    "title": "Reset Your Password",
+    "subtitle": "Easily update your account password to ensure your security and access. Enter a new password and confirm it to proceed."
+  },
+  "sendResetCode": {
+    "title": "It seems you forgot your password",
+    "subtitle": " Please enter your email address so we can help you reset it."
+  },
+  "noDataAvailable": "No data available",
+  "loginAlertMessage": "If you want to add items to your cart, please login first.",
+  "clickHereToLogin": "Click here to login",
+  "areYouSureThatYouWantToDeleteThisUser": "Are you sure that you want to delete this user?",
+  "thisActionIsNotReversibleOnceYouDeleteTheUserYouDeleteAllOfHisData": "This action is not reversible. Once you delete the user, you delete all of his data.",
+  "failedToDeleteUser": "Failed to delete user",
+  "userDeletedSuccessfully": "User deleted successfully",
+  "reasonForDeletion": "Reason for deletion",
+  "sendResetLink": "Send Reset Link",
+  "passwordResetCodeSentSuccessfully": "If there's an email The Password reset code will be sent.",
+  "passwordHasBeenUpdatedSuccessfully": "Password has been updated successfully",
+  "somethingWentWrong": "Something went wrong",
+  "invalidDates": "Invalid dates",
+  "checkout": "Checkout",
+  "footerDescription": "Professional automotive services with a commitment to quality and customer satisfaction.",
+  "rentingCars": "Renting Cars",
+  "buyCars": "Buying Cars",
+  "quickLinks": "Quick Links",
+  "ourServices": "Our Services",
+  "businessHours": "Business Hours",
+  "privacyPolicy": "Privacy Policy",
+  "termsOfService": "Terms of Service",
+  "allRightsReserved": "All rights reserved",
+  "noItemsFound": "No items found",
+  "invalidItems": "Maybe your search keywords isnot specific or there's no data here.",
+  "pendingCompanies": "Pending Companies",
+  "viewPendingCompanies": "View Pending Companies",
+
+  "Footer": {
+    "logoAltText": "Certified Logo",
+    "programsTitle": "Programs",
+    "programMBA": "MBA Programs",
+    "programPhD": "PhD Programs",
+    "programMSc": "MSc Programs",
+    "programDBA": "DBA Programs",
+    "programBachelor": "Bachelor Programs",
+    "programPMPCert": "PMP Certification",
+    "programPMOCPCert": "PMO-CP Certification",
+    "programOtherCourses": "Other Courses",
+    "quickLinksTitle": "Quick Links",
+    "quickLinkAllCourses": "All Courses",
+    "quickLinkInstructors": "Instructors",
+    "quickLinkPMPExams": "PMP Exams",
+    "quickLinkPMOExams": "PMO Exams",
+    "quickLinkPMPBooks": "PMP Books Store",
+    "quickLinkAboutUs": "About Us",
+    "quickLinkCheckSerial": "Check Serial",
+    "quickLinkAskAI": "Ask AI",
+    "quickLinkContactUs": "Contact Us",
+    "quickLinkSubscriptions": "Subscriptions & Membership",
+    "quickLinkArticles": "Articles",
+    "contactUsTitle": "Contact Us",
+    "contactAddress": "Baljurshi, Al Olaya, Riyadh 12221, Saudi Arabia",
+    "copyrightText": "Copyright © {year} {company}. All Rights Reserved. - Developed By {developer}."
+  },
+  "hero": {
+    "accreditation": "UK-ACCREDITED DEGREES & CERTIFICATIONS",
+    "title": "Transform Your Future With Globally Recognized Education",
+    "description": "Advance your career with our internationally accredited MBA, DBA, and professional certification programs designed for ambitious leaders. Learn from industry experts and gain qualifications recognized by prestigious UK universities.",
+    "flexibleLearning": "Flexible Learning",
+    "industryRecognized": "Industry Recognized",
+    "expertFaculty": "Expert Faculty",
+    "globalNetwork": "Global Network",
+    "beginJourney": "Begin Your Journey Now",
+    "bookConsultation": "Book a Free Consultation",
+    "graduates": "{count}+ graduates from",
+    "countries": "{countries}+ countries",
+    "successRate": "94%",
+    "successText": "Career Advancement",
+    "accreditationBadge": "UK Accredited",
+    "Success Rate": "Success Rate"
+  },
+  "header": {
+    "SearchDropdown": {
+      "searchTitle": "Search Our Programs",
+      "placeholder": "Search for courses, programs, or topics...",
+      "popularSearches": "Popular searches:",
+      "closeSearch": "Close search",
+      "openSearch": "Open search"
+    },
+    "Common": {
+      "mba": "MBA",
+      "pmp": "PMP",
+      "dba": "DBA",
+      "agile": "Agile"
+    },
+    "Navigation": {
+      "home": "Home",
+      "courses": "Courses",
+      "packages": "Packages",
+      "exams": "Exams",
+      "bookStore": "Book Store",
+      "instructors": "Instructors",
+      "aboutUs": "About Us",
+      "contactUs": "Contact Us"
+    },
+    "CourseCategories": {
+      "pmp": "PMP Courses",
+      "pmo": "PMO Courses",
+      "planning": "Planning Courses",
+      "freeCourses": "Free Courses"
+    },
+    "ExamCategories": {
+      "pmp": "PMP Exams",
+      "pmo": "PMO Exams",
+      "pgmp": "PgMP Exams"
+    },
+    "Auth": {
+      "login": "Login",
+      "register": "Register",
+      "startNow": "Start Now"
+    }
+  },
+  "featured": {
+    "title": "Our Featured Programs",
+    "description": "Internationally accredited programs designed to prepare you for leadership roles in the global business environment",
+    "FeaturedCard": {
+      "views_count": "{views, number} views",
+      "show_more": "Show more",
+      "delivery_mode": "Online/Blended",
+      "academic_phd_management_business_alt": "Academic PhD in Management and Business (PMB)",
+      "academic_phd_management_business_category": "Doctorate",
+      "academic_phd_management_business_title": "Academic PhD in Management and Business (PMB)",
+      "academic_phd_management_business_description": "This PhD program is designed for graduates aiming to conduct academic research or pursue teaching careers as professors in management and business.",
+      "academic_phd_management_business_duration": "3-5 years",
+      "mba_alt": "Master of Business Administration (MBA)",
+      "mba_category": "Masters",
+      "mba_title": "Master of Business Administration (MBA)",
+      "mba_description": "This MBA program enables you to acquire a wide range of business management skills and knowledge, empowering you to advance your career.",
+      "mba_duration": "Less than one year",
+      "anglia_ruskin_university_name": "Anglia Ruskin University",
+      "anglia_ruskin_university_description": "One of the UK's prestigious universities",
+      "bba_alt": "Bachelor of Business Administration (BBA)",
+      "bba_category": "Undergraduate",
+      "bba_title": "Bachelor of Business Administration (BBA)",
+      "bba_description": "The Bachelor of Business Administration program provides students with a solid foundation in business principles and practices.",
+      "bba_duration": "3-4 years",
+      "uclan_university_name": "University of Central Lancashire (UCLan)",
+      "uclan_university_name_description": "International university with a heritage dating back to 1828",
+      "msc_project_management_alt": "Master of Science in Project Management (MSc)",
+      "msc_project_management_category": "Masters",
+      "msc_project_management_title": "Master of Science in Project Management (MSc)",
+      "msc_project_management_description": "The Master of Science in Project Management program is designed to equip students with the advanced knowledge and skills needed to excel in project leadership roles.",
+      "msc_project_management_duration": "1-2 years",
+      "uk_university_description": "UK"
+    }
+  },
+  "aboutHomePage": {
+    "AboutContent": {
+      "heading": "About Our Institute",
+      "description": "At Certified, we bridge the gap between ambitious professionals and world-class education through our partnerships with internationally recognized universities.",
+      "list": {
+        "accredited_degrees": "Internationally accredited degrees and certificates",
+        "flexible_learning": "Flexible learning options tailored to working professionals",
+        "expert_faculty": "Expert faculty with extensive industry experience",
+        "career_support": "Comprehensive career support and networking opportunities"
+      },
+      "learn_more_button": "Learn More About Us"
+    },
+    "AboutImageGallery": {
+      "image1_alt": "Students in a classroom setting",
+      "image2_alt": "Graduation ceremony"
+    },
+    "AboutStats": {
+      "university_partners_label": "University Partners",
+      "students_enrolled_label": "Students Enrolled",
+      "success_rate_label": "Success Rate"
+    }
+  },
+  "accreditations": {
+    "heading": "Our Accreditations & Partnerships",
+    "description": "We collaborate with leading institutions worldwide to ensure our programs meet international standards and provide globally recognized qualifications.",
+    "accreditation_item": {
+      "international_management_association": "International Management Association",
+      "global_business_academy": "Global Business Academy",
+      "european_higher_education_authority": "European Higher Education Authority",
+      "international_distance_education_council": "International Distance Education Council",
+      "international_council_open_education": "International Council for Open Education",
+      "accreditation_council_business_schools": "Accreditation Council for Business Schools"
+    },
+    "quality_assurance": {
+      "heading": "International Quality Assurance",
+      "description": "All our programs undergo rigorous quality checks and are approved by accredited institutions, ensuring you receive education that meets global standards.",
+      "list": {
+        "quality_assured_curriculum": "Quality Assured Curriculum",
+        "internationally_recognized_qualifications": "Internationally Recognized Qualifications",
+        "rigorous_academic_standards": "Rigorous Academic Standards",
+        "industry_aligned_learning_outcomes": "Industry-Aligned Learning Outcomes"
+      },
+      "image_alt": "Quality assurance standards"
+    }
+  },
+  "certified": {
+    "heading": "Why Choose Certified",
+    "description": "We offer a unique educational experience that combines academic excellence with practical industry relevance, delivered in a way that fits your busy lifestyle.",
+    "FeatureCard": {
+      "flexible_learning_title": "Flexible & Modular Learning",
+      "flexible_learning_description": "Our programs are designed to accommodate working professionals with 100% online delivery, weekend classes, and modular course structures that allow you to learn at your own pace.",
+      "affordable_programs_title": "Affordable Programs with Payment Plans",
+      "affordable_programs_description": "We believe quality education should be accessible. Our competitive tuition fees and flexible installment plans help you manage your investment in education without financial strain.",
+      "accredited_recognized_title": "Internationally Accredited & Recognized",
+      "accredited_recognized_description": "All our programs are accredited by prestigious international bodies and recognized by employers worldwide, ensuring your qualification has global value."
+    },
+    "start_journey_button": "Start Your Educational Journey",
+    "ImageWithOverlay": {
+      "main_image_alt": "Students benefiting from our flexible learning programs",
+      "overlay_text": "of our graduates report career advancement within one year"
+    },
+    "StatBox": {
+      "university_partners_label": "University Partners",
+      "courses_available_label": "Courses Available",
+      "global_alumni_label": "Global Alumni"
+    }
+  },
+  "resources": {
+    "heading": "Student Resources",
+    "description": "Access tools, guides, and materials to support your learning journey.",
+    "ResourceCategoryTabs": {
+      "brochures_tab": "Program Brochures",
+      "guides_tab": "Student Guides",
+      "videos_tab": "Video Resources",
+      "forms_tab": "Application Forms"
+    },
+    "ResourceCard": {
+      "mba_brochure_title": "MBA Program Brochure",
+      "dba_brochure_title": "DBA Program Brochure",
+      "pmp_guide_title": "PMP Certification Guide",
+      "admission_guide_title": "Admissions Guide",
+      "orientation_video_title": "Student Orientation Video",
+      "program_overview_video_title": "Program Overview Video",
+      "application_form_title": "General Application Form",
+      "download_button": "Download Resource"
+    },
+    "ContactSupportBanner": {
+      "contact_banner_heading": "Need a Specific Resource?",
+      "contact_banner_description": "If you can't find what you're looking for, our team is ready to help.",
+      "contact_banner_button": "Contact Support Team"
+    }
+  },
+  "review": {
+    "heading": "What Our Students Say",
+    "description": "Hear from our graduates about how our programs have transformed their careers and provided them with valuable skills and knowledge.",
+    "pagination_bullet_label": "Go to testimonial slide {{index}}",
+    "prev_testimonial_aria_label": "Previous testimonial",
+    "next_testimonial_aria_label": "Next testimonial",
+    "TestimonialCard": {
+      "testimonial1_alt": "Sarah Johnson, MBA Graduate",
+      "testimonial1_quote": "Completing my MBA through Certified was one of the best career decisions I've made. The flexible learning model allowed me to continue working while studying, and the international faculty provided diverse perspectives that broadened my understanding of global business.",
+      "testimonial1_name": "Sarah Johnson",
+      "testimonial1_title": "MBA Graduate, Marketing Director",
+
+      "testimonial2_alt": "David Lee, DBA Candidate",
+      "testimonial2_quote": "The DBA program has been intellectually stimulating and incredibly relevant to my executive role. The faculty are experts in their fields, providing mentorship that goes beyond traditional academia. Highly recommend for experienced professionals seeking deep knowledge.",
+      "testimonial2_name": "David Lee",
+      "testimonial2_title": "DBA Candidate, Senior Consultant",
+
+      "testimonial3_alt": "Aisha Rahman, PMP Certified",
+      "testimonial3_quote": "I gained my PMP certification with Certified, and it was a seamless experience. The course material was comprehensive, and the instructors were fantastic, guiding us through complex concepts with practical examples. My career prospects have significantly improved.",
+      "testimonial3_name": "Aisha Rahman",
+      "testimonial3_title": "PMP Certified, Project Manager",
+
+      "testimonial4_alt": "Carlos Garcia, Marketing Specialist",
+      "testimonial4_quote": "The specialized courses offered here are truly industry-leading. I was able to immediately apply what I learned to my daily tasks, leading to noticeable improvements in my team's performance. The online format was perfect for my busy schedule.",
+      "testimonial4_name": "Carlos Garcia",
+      "testimonial4_title": "Marketing Specialist",
+
+      "testimonial5_alt": "Emily Chen, HR Manager",
+      "testimonial5_quote": "The support from the Certified team is exceptional. From enrollment to graduation, they were always available to answer questions and provide guidance. The community of students also made the learning journey much more engaging.",
+      "testimonial5_name": "Emily Chen",
+      "testimonial5_title": "HR Manager"
+    }
+  },
+  "article": {
+    "heading": "Latest News & Insights",
+    "description": "Stay updated with the latest trends, research, and developments in business education and professional training.",
+    "view_all_articles_button": "View All Articles",
+    "ArticleCard": {
+      "business_education_category": "Business Education",
+      "certification_category": "Certification",
+      "professional_development_category": "Professional Development",
+
+      "mar_15_2025_date": "Mar 15, 2025",
+      "mar_10_2025_date": "Mar 10, 2025",
+      "mar_05_2025_date": "Mar 5, 2025",
+
+      "dr_sarah_johnson_author": "Dr. Sarah Johnson",
+      "prof_michael_chen_author": "Prof. Michael Chen",
+      "dr_emily_rodriguez_author": "Dr. Emily Rodriguez",
+
+      "future_of_business_education_title": "The Future of Business Education in a Digital World",
+      "future_of_business_education_desc": "Explore how digital transformation is reshaping business education and what it means for future leaders.",
+
+      "pmp_certification_benefits_title": "How PMP Certification Can Boost Your Career Prospects",
+      "pmp_certification_benefits_desc": "Learn about the tangible benefits of obtaining a PMP certification and how it can transform your project management career.",
+
+      "rise_of_micro_credentials_title": "The Rise of Micro-Credentials in Professional Development",
+      "rise_of_micro_credentials_desc": "Discover why micro-credentials are becoming increasingly popular among professionals seeking to enhance their skills.",
+
+      "read_more": "Read More"
+    }
+  },
+  "next_step": {
+    "heading": "Ready to Take the Next Step in Your Career?",
+    "description": "Speak with our academic advisors to discover how our programs can help you achieve your professional goals and advance your career.",
+    "book_consultation_button": "Book a Free Consultation",
+    "download_prospectus_button": "Download Prospectus",
+    "support_features": {
+      "academic_advising_title": "Academic Advising",
+      "academic_advising_description": "Get personalized guidance on program selection",
+      "financial_options_title": "Financial Options",
+      "financial_options_description": "Flexible payment plans and scholarship opportunities",
+      "career_support_title": "Career Support",
+      "career_support_description": "Resume building, interview prep, and job placement assistance"
+    }
+  },
+  "contactUs": {
+    "main_heading": "Get In Touch",
+    "main_description": "We're here to help! Reach out to us through the form below or using our direct contact information.",
+    "map_alt_text": "Location of Professional Engineers on a map",
+    "view_on_map_text": "View on Map",
+    "view_on_map_aria_label": "View our location on Google Maps",
+    "ContactForm": {
+      "form_heading": "Send Us a Message",
+      "name_label": "Your Name",
+      "name_placeholder": "Enter your name",
+      "email_label": "Your Email",
+      "email_placeholder": "Enter your email address",
+      "subject_label": "Subject",
+      "subject_placeholder": "Enter the subject of your message",
+      "message_label": "Your Message",
+      "message_placeholder": "Type your message here...",
+      "submit_button": "Send Message",
+      "submission_success_message": "Your message has been sent successfully!"
+    },
+    "ContactInfo": {
+      "info_heading": "Contact Details",
+      "info_description": "Find us and connect with us through our primary contact channels.",
+      "address_label": "Our Office Address",
+      "address_value": " Baljurshi, Al Olaya, Riyadh 12221, Saudi Arabia",
+      "phone_label": "Phone Numbers",
+      "email_label": "Email Address",
+      "website_label": "Website"
+    },
+    "social_media": {
+      "facebook_aria_label": "Visit us on Facebook",
+      "linkedin_aria_label": "Connect with us on LinkedIn",
+      "youtube_aria_label": "Watch our videos on YouTube",
+      "whatsapp_aria_label": "Chat with us on WhatsApp"
+    }
+  },
+  "instructors": {
+    "section_heading": "Meet Our Expert Instructors",
+    "section_description": "Learn from industry leaders and certified professionals who are passionate about sharing their knowledge and guiding you to success."
+  },
+  "bookstore": {
+    "main_heading": "Our Book Store",
+    "main_description": "Explore our curated collection of professional books on project management, organizational development, and more.",
+    "free_label": "Free",
+    "category_label": "Category",
+    "no_books_found": "No books found for the selected category.",
+    "Filter": {
+      "filter_heading": "Filter & Refine",
+      "categories_heading": "Book Categories"
+    }
+  },
+  "currency": {
+    "sar": "SAR"
+  }
+}
